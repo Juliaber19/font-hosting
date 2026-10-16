@@ -1,6 +1,7 @@
+/* cezanne.css */
 @font-face {
-  font-family: 'P22 Cezanne Pro';
-  src: url('https://www.chateaudemalherbes.fr/fonts/P22CezannePro.woff2') format('woff2');
-  font-weight: normal;
+  font-family: 'P22 Cezanne';
+  src: url('P22-Cezanne-Regular.woff') format('woff');
+  font-weight: 400;
   font-style: normal;
 }
